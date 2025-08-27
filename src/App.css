@@ -7,11 +7,11 @@
 body {
   margin: 1rem;
   padding: 1rem;
-  color: #fff;
+  color: #ccc;
   background-color: #333;
   font-family: sans-serif;
 
   h1 {
-    color: yellow;
+    color: rgb(213, 213, 118);
   }
 }
