@@ -14,4 +14,23 @@ body {
   h1 {
     color: rgb(213, 213, 118);
   }
+
+  .techbook {
+    background-color: #222;
+    margin: 1rem;
+    padding: 1rem;
+  }
+
+  .title {
+    margin-bottom: 0.5rem;
+    color: greenyellow;
+  }
+
+  .description {
+    color: aqua;
+  }
+
+  span {
+    color: beige;
+  }
 }
