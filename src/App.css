@@ -24,6 +24,7 @@ body {
   .title {
     margin-bottom: 0.5rem;
     color: greenyellow;
+    font-size: 1.25rem;
   }
 
   .description {
@@ -32,5 +33,6 @@ body {
 
   span {
     color: beige;
+    font-size: initial;
   }
 }
